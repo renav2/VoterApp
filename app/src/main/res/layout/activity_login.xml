@@ -158,9 +158,9 @@
                     android:layout_toRightOf="@+id/imgView_serverIcon"
                     android:background="@color/editTextBG"
                     android:hint="Server IP"
-                    android:text="192.168.4.105:8080"
                     android:inputType="textPersonName"
                     android:paddingLeft="20dp"
+                    android:text="192.168.43.89:8080"
                     android:textSize="15sp" />
 
 
