@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">VoterApp</string>
+    <string name="welcome_note">Welcome online library Registration System</string>
+    <string name="welcome_note1">You can book your seat online by paying register amount mentioned in booklet</string>
+    <string name="welcome_note2">You can book your seat online by paying register amount mentioned in booklet</string>
+    <string name="title_activity_welcome">Library</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="end_button">Start</string>
+    <string name="skip_button">Skip</string>
+    <string name="REG_USER">user_name</string>
+    <string name="FCM_PREF">fcm_pref</string>
+    <string name="FCM_TOKEN">fcm_token</string>
+    <string name="REG_USER_PROFILE">reg_user_profile</string>
+    <string name="username_hint">Enter User Name</string>
+    <string name="email_hint">Enter Email ID</string>
+    <string name="address_hint">Enter Address</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="profile">Profile</string>
+    <string name="stats">Stats</string>
+    <string name="seats">View Seats</string>
+    <string name="account">Account</string>
+    <string name="about_us">About Us</string>
+    <string name="contact">Contact Us</string>
+    <string name="share">Share</string>
+    <string name="description">Please download the Library app from Play store and book your seat in library near by you. </string>
+    <string name="check_network">Please Check Your Network</string>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="branch">
+        <item>Select Branch</item>
+    </string-array>
+    <string-array name="floor">
+        <item>Select Floor</item>
+    </string-array>
+    <string-array name="room_number">
+        <item>Select Room Number</item>
+    </string-array>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_election_details">Election Details</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="need_help">Contact Us</string>
+    <string name="help_line_number" translatable="false">8000000000</string>
+    <string name="contact_email" translatable="false">support@mifos.org</string>
+    <string name="total_voters">Total Voters</string>
+    <string name="voter_details">Voter Details</string>
+    <string name="election_details">Election Details</string>
+    <string name="elections">Elections</string>
+    <string name="total_candidates">Total Candidates</string>
+    <string name="total_wards">Total Wards</string>
+    <string name="election_summery">Election Summery</string>
+
+    <string name="title_fingerprint">One-touch Sign In</string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="note">(Fingerprint sign in makes your app login much faster. Your device should have at least one fingerprint registered in device settings)</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully logged in with fingerprint authentication</string>
+    <string name="activity_home_note">Close and re-open the app to see the fingerprint auth screen again</string>
+</resources>
